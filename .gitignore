@@ -1,0 +1,5 @@
+testvenv/
+__pycache__/
+*.pyc
+.streamlit/
+.env
